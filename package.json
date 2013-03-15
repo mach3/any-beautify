@@ -1,6 +1,6 @@
 {
   "name": "any-beautify",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Just the wrapper of einars/js-beautify to simply require in node",
   "main": "./lib/any-beautify.js",
   "scripts": {
