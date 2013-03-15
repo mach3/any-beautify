@@ -1,0 +1,7 @@
+{
+	"name" : "any-beautify",
+	"version" : "0.8.0",
+	"dependencies" : {
+		"js-beautify" : "einars/js-beautify"
+	}
+}

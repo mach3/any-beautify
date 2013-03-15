@@ -1,0 +1,18 @@
+{
+  "name": "any-beautify",
+  "version": "0.8.0",
+  "description": "Just the wrapper of einars/js-beautify to simply require in node",
+  "main": "./lib/any-beautify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "beautify",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": "mach3",
+  "license": "MIT"
+}
